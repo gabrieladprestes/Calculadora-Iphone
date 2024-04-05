@@ -81,7 +81,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="Gabriel Alcantara">
-        <img src="https://avatars.githubusercontent.com/u/164343305?u=2e56be2a1caa7ea1695d15455b3b5bc263697536&v=4" width="100px;" alt="Foto do Gabriel Alcantara no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/164343305?s=400&u=a5f0a91d4eaaee7921d8963b8c235627a12a53a4&v=4" width="100px;" alt="Foto do Gabriel Alcantara no GitHub"/><br>
         <sub>
           <b>Gabriel Alcantara</b>
         </sub>
