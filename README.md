@@ -1,14 +1,21 @@
-# Calculadora Iphone
+# Calculadora Iphone 
+<img src="calculator.ico" width="70" alt="Icone do projeto">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<div align="center">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyQt5](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+  <img src="exemplo.png" width="300" alt="Exemplo imagem">
+</div>
+
+> Projeto desenvolvido durante o periodo do curso Técnico de Desenvolvimento de Sistemas SENAC.
 
 ### Ajustes e melhorias
 
@@ -73,7 +80,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="Gabriel Alcantara">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/164343305?u=5e23733732c57a8ec97e399afcb461e17d878b2f&v=4)" width="100px;" alt="Foto do Gabriel Alcantara no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/164343305?u=2e56be2a1caa7ea1695d15455b3b5bc263697536&v=4" width="100px;" alt="Foto do Gabriel Alcantara no GitHub"/><br>
         <sub>
           <b>Gabriel Alcantara</b>
         </sub>
@@ -81,3 +88,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
+
+## 📝 Licença
+
+Ainda trabalhando em uma licença.
